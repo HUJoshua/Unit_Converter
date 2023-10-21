@@ -1,16 +1,9 @@
 import customtkinter
-from customtkinter import *
 from tkinter import *
 import tkinter as tk
-import tkinter.font as font
-from tkinter import ttk
 from tkinter import messagebox
-import requests
 import datetime as dt
-import pyperclip
 from CTkListbox import *
-import atexit
-import os
 
 # system settings
 customtkinter.set_appearance_mode("system")
